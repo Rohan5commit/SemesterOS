@@ -1,11 +1,13 @@
 ./
   .env.example
+  .gitignore
   README.md
   architecture.md
   demo-script.md
   final-submission-checklist.md
   next-env.d.ts
   next.config.mjs
+  package-lock.json
   package.json
   pitch-deck-outline.md
   postcss.config.mjs
@@ -15,6 +17,7 @@
   tsconfig.json
   public/
   docs/
+    repo-tree.txt
   app/
     globals.css
     layout.tsx
