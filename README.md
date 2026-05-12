@@ -16,6 +16,7 @@ SemesterOS is a premium, visually expressive student operating system built for 
 - Framer Motion
 
 ## Quick Start
+main
 ```bash
 npm install
 cp .env.example .env.local
@@ -30,6 +31,7 @@ NVIDIA_NIM_API_KEY=
 If the key is missing/unavailable, SemesterOS automatically serves polished fallback planning output.
 
 ## Deploy to Vercel
+main
 ```bash
 npm i -g vercel
 vercel
@@ -45,3 +47,4 @@ Then add `NVIDIA_NIM_API_KEY` in Vercel project settings.
 - `product-presentation-outline.md`
 - `final-submission-checklist.md`
 - `docs/repo-tree.txt`
+ main
